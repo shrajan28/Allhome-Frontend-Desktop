@@ -1,0 +1,13 @@
+{
+    "app.welcome": "مرحبا بكم في أولكوم",
+    "app.logo": "alHome",
+    "app.desLargeFont": "Alhome - أكبر متجر بيع بالتجزئة للمستلزمات المنزلية في العالم.",
+    "app.desSmallFont" : "ultrices pellentesque، dui vel hendrerit iaculis، ipsum velit الدهليز risus، ac tincidunt diam lectus id magna. Praesent Maximus lobortis neque sit amet rhoncus. لا يوجد أي وقت للقراءة في ثنائي، غير ultricies nibh elementum. لا شيء.",
+    "app.signIn" : "تسجيل الدخول" ,
+    "app.register" :"يسجل",
+    "app.emailAddress" :"عنوان البريد الإلكتروني",
+    "app.phoneNumber" : "رقم التليفون",
+    "app.password" : "كلمة المرور",
+    "app.process" : "عملية",
+    "emailPhone" : "عنوان البريد الإلكتروني / رقم الهاتف"
+  }

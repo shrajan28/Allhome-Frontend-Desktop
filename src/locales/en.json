@@ -1,0 +1,13 @@
+{
+    "app.welcome": "Welcome to Ollcome",
+    "app.logo": "alHome",
+    "app.desLargeFont": "Alhome - largest Home retail shop in the world.",
+    "app.desSmallFont" : "Pellentesque ultrices, dui vel hendrerit iaculis, ipsum velit vestibulum risus, ac tincidunt diam lectus id magna. Praesent maximus lobortis neque sit amet rhoncus. Nullam tempus lectus a dui aliquet, non ultricies nibh elementum. Nulla ac nulla dolor.",
+    "app.signIn" : "Sign In" ,
+    "app.register" :"Register",
+    "app.emailAddress" :"Email Address",
+    "app.phoneNumber" : "Phone Number",
+    "app.password" : "Password",
+    "app.process" : "Process",
+    "emailPhone" : "Email Address / Phone Number"
+  }
