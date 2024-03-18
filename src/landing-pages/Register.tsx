@@ -103,9 +103,9 @@ const Register: React.FC<RegisterProps> = ({ title }) => {
                         required
                       />
                     </div>
-                    
+                    <Link to ="/DashboardFull">
                       <Button title="Process"/>
-                    
+                    </Link>
                     <div>
                     <label htmlFor="terms" className="mt-2 text-sm text-gray-600">
                     <input

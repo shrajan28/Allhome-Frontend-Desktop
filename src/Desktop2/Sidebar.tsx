@@ -6,7 +6,7 @@ type SidebarProps = {
   
   const Sidebar: React.FC<SidebarProps> = ({ title }) => {
     return (
-        <aside className="w-64 bg-white p-4 rounded-lg shadow-md">
+        <aside className="w-64 bg-[#323031] p-4  shadow-md">
                 <nav className="space-y-1">
                     <p className="text-xs font-semibold uppercase tracking-wide text-gray-500 px-3 mb-4">Main Menu</p>
                     <a

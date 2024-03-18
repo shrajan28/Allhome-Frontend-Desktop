@@ -106,7 +106,8 @@
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true,
     "jsx": "react",
-    "resolveJsonModule": true   
+    "resolveJsonModule": true ,
+    "allowJs": true  
                                   /* Skip type checking all .d.ts files. */
   }
 }
